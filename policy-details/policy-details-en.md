@@ -13,7 +13,7 @@ In cases where chain security vulnerabilities are detected using more than one s
 
 Reports should be submitted in Turkish or English.
 
-All details about the vulnerability must be shared and a PoC must be given. You can access the sample report format at https://github.com/Bitexen/GuvenlikAcigiBildirimRaporTaslak link. Misleading activities and misleading statements should not be used in research and reports. Please note that if such a situation is detected by Bitexen, you will be removed from the Vulnerability Reporting Program and you will not be able to earn your reward.
+All details about the vulnerability must be shared and a PoC must be given. You can access the sample report formats at [report-templates](https://github.com/Bitexen/bitexen-bugbounty/tree/master/report-templates) page. Misleading activities and misleading statements should not be used in research and reports. Please note that if such a situation is detected by Bitexen, you will be removed from the Vulnerability Reporting Program and you will not be able to earn your reward.
 
 Before any information regarding the submitted reports is disclosed to the public or such information is shared with others; Bitexen should be given a reasonable amount of time to investigate and resolve the issue and determine whether the report can be included in the reward program.
 
