@@ -21,7 +21,7 @@ Katıldığın için teşekkürler ve iyi avlanmalar! ¯\\\_(ツ)\_/¯
 - Diğer kullanıcı verilerine erişilmemeli, değiştirilmemeli, tüm testler kontrolünüzdeki hesaplar ile gerçekleştirilmeli. Kullanıcı verilerine erişim yetkisi doğurabilecek zafiyetleri doğrulamadan veya yalnızca kendi hesaplarınız üzerinde doğrulayarak iletebilirsiniz.
 - Sosyal mühendislik yöntemleri (phishing, vishing, smishing vb.) ve fiziki saldırılar (bilgisayar hırsızlığı, SIM kart kopyalanması vb.) kullanılmamalı. Hizmet kesintisine yol açabilecek (DoS) saldırılar denenmemelidir.
 - Raporlar Türkçe veya İngilizce olarak iletilebilir.
-- Güvenlik açığı hakkındaki tüm detayların paylaşılması, PoC verilmesi gerekmektedir. Örnek rapor formatına https://github.com/Bitexen/GuvenlikAcigiBildirimRaporTaslak linkinden ulaşabilirsiniz.
+- Güvenlik açığı hakkındaki tüm detayların paylaşılması, PoC verilmesi gerekmektedir. Örnek rapor formatlarına [report-templates](https://github.com/Bitexen/bitexen-bugbounty/tree/master/report-templates) sayfasından ulaşabilirsiniz.
 - Birden fazla güvenlik açıklığı kullanılarak zincirleme güvenlik açıklığının tespit edildiği durumlarda ayrı ayrı raporlama yapılabilir.
 
 ## Risk kategorilendirmesi
@@ -153,7 +153,7 @@ Rapor gönderilmesi halinde, gönderilen içeriğin haklarının Bitexen'e devre
 
 Program kapsamında sunulan raporlardaki güvenlik açıklarının Bitexen haricindeki üçüncü partilerin ürün ve hizmetlerine, ağ yapılarına, sistemlerine, uygulamalarına ve bilgilerine dair olması durumunda, ilgili raporlar Bitexen Güvenlik Açığı Bildirim Programı kapsamında değerlendirilmez ve dolayısıyla ilgili üçüncü partilerin bu tarz bir raporlama durumunda yasal işlem başlatabileceğini ve bu durumdan Bitexen olarak sorumlu olmadığımızı bildirmek isteriz. Bitexen kendi ürün ve hizmetleri dışındaki güvenlik araştırmalarına izin vermez ve herhangi bir kişiye bu konuda bir yetkilendirme sunmaz.
 
-Bitexen Güvenlik Açığı Bildirim Programına dair detaylı kuralların ve hukuki bilgilerin yer aldığı dokümana https://github.com/Bitexen/HukukiBildirimPolitikasi linkinden ulaşabilirsiniz.
+Bitexen Güvenlik Açığı Bildirim Programına dair detaylı kuralların ve hukuki bilgilerin yer aldığı dokümana [policy-details](https://github.com/Bitexen/bitexen-bugbounty/tree/master/policy-details) sayfasından ulaşabilirsiniz.
 
 <br>
 
