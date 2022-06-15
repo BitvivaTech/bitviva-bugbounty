@@ -80,7 +80,6 @@ Bitexen, belirtilen ödül miktarlarını haber vermeden değiştirme hakkına s
 | Smart Contract | 0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f (BTXN) (ERC20)  |
 | Smart Contract | 0xbcf91e60a6719eb3e9308addf1f7c6185c2af889 (XNP) (ERC20)   |
 
-
 Not: Akıllı sözleşmelerin kodlarına https://etherscan.io/ adresinden ulaşabilirsiniz.
 
 ## Kapsam Dışı
@@ -155,10 +154,6 @@ Program kapsamında sunulan raporlardaki güvenlik açıklarının Bitexen haric
 
 Bitexen Güvenlik Açığı Bildirim Programına dair detaylı kuralların ve hukuki bilgilerin yer aldığı dokümana [policy-details](https://github.com/Bitexen/bitexen-bugbounty/tree/master/policy-details) sayfasından ulaşabilirsiniz.
 
-<br>
-
 Mutlu avlar! ᕕ( ᐛ )ᕗ
-
-<br>
 
 _Bitexen Güvenlik Açığı Bildirim Programı sistemlerimizde bulunabilecek güvenlik açıklarından kontrollü bir şekilde haber almak ve araştırmacıları teşvik etmek için hazırlanmıştır. Eğer Bitexen hesabınızın güvenliğinin ihlal edildiğini düşünüyorsanız en kısa zamanda şifrenizi değiştiriniz ve destek@bitexen.com aracılığıyla destek ekibimizle iletişime geçiniz._
