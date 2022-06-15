@@ -1,4 +1,4 @@
-![bitexen-bugbounty-img](src/bitexen-bugbounty-img.png)
+[<img alt="bitexen-bugbounty-img" src="src/bitexen-bugbounty-img.png" />]([https://www.google.com/](https://bugbounty.bitexen.com))
 
 # Bitexen Güvenlik Açığı Bildirim Programı
 
