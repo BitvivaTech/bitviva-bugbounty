@@ -1,4 +1,4 @@
-#Bitexen Güvenlik Açığı Bildirim Programı Politika Detayları
+# Bitexen Güvenlik Açığı Bildirim Programı Politika Detayları
 
 Bitexen, Bitexen uygulamaları, Bitexen iş ortakları, Bitexen kullanıcıları, müşterileri, çalışanları veya temsilcileri hakkında Güvenlik Açığı Bildirim Programı ile bağlantılı olarak aldığınız, eriştiğiniz veya topladığınız tüm veriler, Bitexen'in gizli bilgileri olarak kabul edilir.
 Gizli bilgiler yalnızca Güvenlik Açığı Bildirim Programı kapsamında Bitexen’e bildirilmesi veya sunulan raporla ilgili olarak Bitexen tarafından istenebilecek her türlü ek bilginin sağlanması amaçlarıyla kullanılmalıdır. Bunun dışında, gizli bilgiler hiçbir şekil ve ad altında kullanılmamalı, ifşa edilmemeli, başkalarına aktarılmamalıdır. 
@@ -29,7 +29,7 @@ Tespit edilen güvenlik açıklarının, tespitin gerçekleşmesinden sonra en k
 
 Verilere yetkisiz erişimi kısıtlayan/yasaklayan yasa ve yönetmelikler dâhil ancak bunlarla sınırlı olmamak üzere ilgili tüm mevzuat hükümleri bilinçli olarak ihlal edilmemeli ve başkalarının da yasaları ihlal etmesine yardımcı olunmamalıdır.
 
-#Detaylı Hukuki Bildirimi
+# Detaylı Hukuki Bildirimi
 
 Bitexen Güvenlik Açığı Bildirim Programı, size, kapsam dâhilinde olduğu belirtilen ürün ve sistemlerin güvenliğini test etme yetkisi tanımaktadır. Ancak bu yetki kullanılırken Bitexen’in hizmetlerini kesintiye uğratmamalı, güvenlik açığı bildirim programlarımızın izin verdiğinin ötesinde herhangi bir veriyi bozmamalı veya tehlikeye atmamalısınız. Ayrıca ikamet ettiğiniz veya Bitexen yazılımlarını veya hizmetlerini indirdiğiniz ya da kullandığınız ülke veya bölgenin yerel yasaları dâhil olmak üzere tüm geçerli yasalara uymalısınız.
 
