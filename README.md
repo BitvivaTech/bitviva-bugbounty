@@ -71,7 +71,7 @@ Bitexen, belirtilen ödül miktarlarını haber vermeden değiştirme hakkına s
 
 ## Kapsam
 
-| Hedef uygulama | Domain / Adres                                             |
+| Hedef Uygulama | Domain/Adres                                               |
 |----------------|------------------------------------------------------------|
 | Domain         | www.bitexen.com/*                                          |
 | Domain         | bitexen.com/*                                              |
