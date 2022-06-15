@@ -1,4 +1,4 @@
-#Bitexen Vulnerability Reporting Program Policy Details
+# Bitexen Vulnerability Reporting Program Policy Details
 
 Any data you receive, access or collect about Bitexen, Bitexen applications, Bitexen partners, Bitexen users, customers, employees or representatives in connection with the Vulnerability Reporting Program is considered Bitexen's confidential information.
 Confidential information should only be used for the purposes of reporting to Bitexen within the scope of the Vulnerability Reporting Program or providing any additional information that may be requested by Bitexen regarding the submitted report. Apart from this, confidential information should not be used, disclosed or transferred to others in any form or under any name.
@@ -29,7 +29,7 @@ Detected security vulnerabilities should be reported as soon as possible after t
 
 All relevant legislative provisions, including but not limited to laws and regulations that restrict/prohibit unauthorized access to data, must not be intentionally violated or assisted to others to violate the law.
 
-#Detailed Legal Notice
+# Detailed Legal Notice
 
 Bitexen Vulnerability Reporting Program authorizes you to test the security of the products and systems that are stated to be in scope. However, while using this authority, you should not interrupt Bitexen's services, corrupt or endanger any data beyond what our vulnerability reporting programs allow. You must also comply with all applicable laws, including local laws of the country or region where you reside or where you download or use Bitexen software or services.
 
