@@ -154,10 +154,10 @@ Program kapsamında sunulan raporlardaki güvenlik açıklarının Bitexen haric
 
 Bitexen Güvenlik Açığı Bildirim Programına dair detaylı kuralların ve hukuki bilgilerin yer aldığı dokümana https://github.com/Bitexen/HukukiBildirimPolitikasi linkinden ulaşabilirsiniz.
 
-<br><br><br>
+<br>
 
 Mutlu avlar! ᕕ( ᐛ )ᕗ
 
-<br><br><br>
+<br>
 
 _Bitexen Güvenlik Açığı Bildirim Programı sistemlerimizde bulunabilecek güvenlik açıklarından kontrollü bir şekilde haber almak ve araştırmacıları teşvik etmek için hazırlanmıştır. Eğer Bitexen hesabınızın güvenliğinin ihlal edildiğini düşünüyorsanız en kısa zamanda şifrenizi değiştiriniz ve destek@bitexen.com aracılığıyla destek ekibimizle iletişime geçiniz._
