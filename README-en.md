@@ -34,7 +34,7 @@ We have classified the reported vulnerabilities into four categories based on th
 - Remote code execution on Bitexen servers
 - Access to user accounts by bypassing login or MFA functions (Social engineering and brute force attacks are excluded)
 - Transaction by bypassing the business logic (changing the price in coin purchases, etc.)
-- Affecting encryption, signing, authentication functions![image](https://user-images.githubusercontent.com/102352416/173853541-0182e543-8097-4308-a914-dee56bf61d74.png)
+- Affecting encryption, signing, authentication functions
 
 ### High
 
