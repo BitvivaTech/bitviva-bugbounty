@@ -13,7 +13,7 @@ Birden fazla güvenlik açıklığı kullanılarak zincirleme güvenlik açıkl�
 
 Raporlar Türkçe veya İngilizce olarak iletilmelidir.
 
-Güvenlik açığı hakkındaki tüm detayların paylaşılması, PoC verilmesi gerekmektedir. Örnek rapor formatına https://github.com/Bitexen/GuvenlikAcigiBildirimRaporTaslak linkinden ulaşabilirsiniz. Araştırmalarda ve sunulan raporlarda yanıltıcı faaliyetlerde bulunulmamalı, yanıltıcı ifadeler kullanılmamalıdır. Böyle bir durumun Bitexen tarafından tespiti halinde Güvenlik Açığı Bildirim Programından çıkarılacağınızı ve ödül hak edişinizi kazanamayacağınızı lütfen unutmayınız. 
+Güvenlik açığı hakkındaki tüm detayların paylaşılması, PoC verilmesi gerekmektedir. Örnek rapor formatlarına [report-templates](https://github.com/Bitexen/bitexen-bugbounty/tree/master/report-templates) sayfasından ulaşabilirsiniz. Araştırmalarda ve sunulan raporlarda yanıltıcı faaliyetlerde bulunulmamalı, yanıltıcı ifadeler kullanılmamalıdır. Böyle bir durumun Bitexen tarafından tespiti halinde Güvenlik Açığı Bildirim Programından çıkarılacağınızı ve ödül hak edişinizi kazanamayacağınızı lütfen unutmayınız. 
 
 Sunulan raporlar ile ilgili herhangi bir bilgi kamuya açıklanmadan veya bu tür bilgiler başkalarıyla paylaşılmadan önce; sorunu incelemesi, çözmesi ve raporun ödül programına alınıp alınamayacağını tespit edebilmesi için Bitexen’e makul bir süre verilmelidir.
 
