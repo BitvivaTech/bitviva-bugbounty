@@ -2,11 +2,12 @@
 
 # Bitexen Güvenlik Açığı Bildirim Programı
 
-Bitexen Güvenlik Açığı Bildirim Programına hoş geldin. Türkiye’nin en büyük kripto borsalarından biri olarak kullanıcılarımıza güvenli bir platform sağlamak ana önceliklerimizden biridir.
-Bu nedenle herkesi Bitexen Güvenlik Açığı Bildirim Programımıza katılmaya davet ediyoruz.
-Bu programla araştırmacı ve hacker'ları güvenlik açıklarını sorumlu bir şekilde bulmaya, bildirmeye ve bu açıkları gidermemize yardımcı olmaya teşvik ediyoruz. 
+Bitexen Güvenlik Açığı Bildirim Programına hoş geldin. Türkiye’nin en büyük kripto borsalarından biri olarak kullanıcılarımıza güvenli bir platform sağlamak ana önceliklerimizden biridir. Bu nedenle herkesi Bitexen Güvenlik Açığı Bildirim Programımıza katılmaya davet ediyoruz. Bu programla araştırmacı ve hacker'ları güvenlik açıklarını sorumlu bir şekilde bulmaya, bildirmeye ve bu açıkları gidermemize yardımcı olmaya teşvik ediyoruz. 
+
 Benzer güvenlik açığı bildirim programlarında olduğu gibi Bitexen Güvenlik Açığı Bildirim Programında da hem bizleri hem de güvenlik açığı bildirenleri korumaya yönelik oldukça net ve basit kurallar var. 
+
 Bitexen Güvenlik Açığı Bildirim Programına dair sormak istediğin soruları bugbounty@bitexen.com adresine iletebilirsin.
+
 Katıldığın için teşekkürler ve iyi avlanmalar! ¯\\\_(ツ)\_/¯
 
 ## Kurallar
