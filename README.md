@@ -111,7 +111,7 @@ Not: Akıllı sözleşmelerin kodlarına https://etherscan.io/ adresinden ulaşa
 - "Best Practice" kabul edilen kontrollerde eksiklikler
 - Mobil cihazlarda root, jailbreak veya cihaz modifikasyonu gerektiren güvenlik açıkları
 
-Kapsam dışı olarak belirtilmemiş sistemler veya güvenlik açıkları konusunda sorularınızı bugbounty@bitexen.com adresine iletebilirsiniz.
+Kapsam dışı olarak belirtilmemiş sistemler/güvenlik açıkları konusunda sorularınızı iletebilirsiniz.
 
 ## Test ve Raporlama
 
