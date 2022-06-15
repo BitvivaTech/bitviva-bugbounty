@@ -1,4 +1,4 @@
-![alt text](src/bitexen-bogbounty-img.png)
+![alt text](src/bitexen-bugbounty-img-2.png)
 
 # Bitexen Güvenlik Açığı Bildirim Programı
 
