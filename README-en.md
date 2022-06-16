@@ -10,18 +10,15 @@ You can send your questions about the Bitexen Vulnerability Reporting Program to
 
 Thanks for participating and happy hunting! ¯\\\_(ツ)\_/¯
 
-## Rules
+## Rewards
 
-- The first report for the same vulnerability is accepted.
-- Reports for vulnerabilities already known by Bitexen are not accepted.
-- Do not share the vulnerabilities found on other platforms without Bitexen's permission. Reports that are found to be shared will lose their reward.
-- Reports sent for vulnerabilities specified as out of scope are not accepted.
-- Care should be taken not to damage the systems and the confidentiality of personal data.
-- Other user data should not be accessed or changed, and all tests should be performed with the accounts under your control. You can forward vulnerabilities that may authorize access to user data without verifying or only by verifying them on your own accounts.
-- Social engineering methods (phishing, vishing, smishing, etc.) and physical attacks (computer theft, SIM card copying, etc.) should not be used. DoS attacks should not be attempted.
-- Reports can be submitted in Turkish or English.
-- All details about the vulnerability must be shared and a PoC must be given. You can access the sample report formats at [report-templates](https://github.com/Bitexen/bitexen-bugbounty/tree/master/report-templates) page.
-- In cases where chain security vulnerabilities are detected by using more than one security vulnerabilities, separate reporting can be made.
+The table below shows the largest prize amount to be rewarded in the specified category. In case a valid report is submitted, the amount of the reward will be calculated based on the report. You can earn additional rewards for high quality reporting, assisting in the reporting and resolution process.
+
+| Critical   | High       | Medium    | Low       |
+|------------|------------|-----------|-----------|
+| USD 3.000  | USD 1.000  | USD 250   | USD 50    |
+
+Bitexen reserves the right to change the specified prize amounts without notice. The current reward amount on the date the report is submitted to Bitexen is taken into account. The prize won will be transferred to Bitexen accounts as BTXN or USDT according to your preference.
 
 ## Risk Categorization
 
@@ -51,15 +48,18 @@ We have classified the reported vulnerabilities into four categories based on th
 
 - Non-critical information disclosure vulnerabilities on servers that cannot be combined with another attack
 
-## Rewards
+## Rules
 
-The table below shows the largest prize amount to be rewarded in the specified category. In case a valid report is submitted, the amount of the reward will be calculated based on the report. You can earn additional rewards for high quality reporting, assisting in the reporting and resolution process.
-
-| Critical   | High       | Medium    | Low       |
-|------------|------------|-----------|-----------|
-| USD 3.000  | USD 1.000  | USD 250   | USD 50    |
-
-Bitexen reserves the right to change the specified prize amounts without notice. The current reward amount on the date the report is submitted to Bitexen is taken into account. The prize won will be transferred to Bitexen accounts as BTXN or USDT according to your preference.
+- The first report for the same vulnerability is accepted.
+- Reports for vulnerabilities already known by Bitexen are not accepted.
+- Do not share the vulnerabilities found on other platforms without Bitexen's permission. Reports that are found to be shared will lose their reward.
+- Reports sent for vulnerabilities specified as out of scope are not accepted.
+- Care should be taken not to damage the systems and the confidentiality of personal data.
+- Other user data should not be accessed or changed, and all tests should be performed with the accounts under your control. You can forward vulnerabilities that may authorize access to user data without verifying or only by verifying them on your own accounts.
+- Social engineering methods (phishing, vishing, smishing, etc.) and physical attacks (computer theft, SIM card copying, etc.) should not be used. DoS attacks should not be attempted.
+- Reports can be submitted in Turkish or English.
+- All details about the vulnerability must be shared and a PoC must be given. You can access the sample report formats at [report-templates](https://github.com/Bitexen/bitexen-bugbounty/tree/master/report-templates) page.
+- In cases where chain security vulnerabilities are detected by using more than one security vulnerabilities, separate reporting can be made.
 
 ### Reward Criteria
 
