@@ -27,20 +27,6 @@ Bitexen, belirtilen ödül miktarlarını haber vermeden değiştirme hakkına s
 - Bulgu halka açık şekilde paylaşılmamalıdır.
 - Ödülün verilmesinin önünde hukuki bir engel bulunmamalıdır.
 
-## Kurallar
-
-- Aynı güvenlik açığı için gelen ilk rapor kabul edilir.
-- Bitexen tarafından halihazırda bilinen açıklıklar için gelen raporlar kabul edilmez.
-- Bulunan zafiyetleri Bitexen izni olmadan başka platformlarda paylaşmayınız. Paylaşıldığı tespit edilen raporlar ödül hak edişini kaybeder.
-- Kapsamda listelenmemiş ancak Bitexen'e ait hedefler için gönderilen raporlar ödül programı dışında tutulur.
-- Kapsam dışı olarak belirtilen zafiyetler için gönderilen raporlar kabul edilmez.
-- Sistemlerin zarar görmemesine ve kişisel verilerin gizliliğine önem verilmelidir.
-- Diğer kullanıcı verilerine erişilmemeli, değiştirilmemeli, tüm testler kontrolünüzdeki hesaplar ile gerçekleştirilmeli. Kullanıcı verilerine erişim yetkisi doğurabilecek zafiyetleri doğrulamadan veya yalnızca kendi hesaplarınız üzerinde doğrulayarak iletebilirsiniz.
-- Sosyal mühendislik yöntemleri (phishing, vishing, smishing vb.) ve fiziki saldırılar (bilgisayar hırsızlığı, SIM kart kopyalanması vb.) kullanılmamalı. Hizmet kesintisine yol açabilecek (DoS) saldırılar denenmemelidir.
-- Raporlar Türkçe veya İngilizce olarak iletilebilir.
-- Güvenlik açığı hakkındaki tüm detayların paylaşılması, PoC verilmesi gerekmektedir. Örnek rapor formatlarına [report-templates](https://github.com/Bitexen/bitexen-bugbounty/tree/master/report-templates) sayfasından ulaşabilirsiniz.
-- Birden fazla güvenlik açıklığı kullanılarak zincirleme güvenlik açıklığının tespit edildiği durumlarda ayrı ayrı raporlama yapılabilir.
-
 ## Risk Kategorilendirmesi
 
 Raporlanan güvenlik açıklarını etkilerine göre dört kategori altında sınıflandırdık. Listede bulunmayan güvenlik açıkları potansiyel etkisine göre değerlendirilecektir.
@@ -68,6 +54,20 @@ Raporlanan güvenlik açıklarını etkilerine göre dört kategori altında sı
 ### Düşük
 
 - Sunucularda kritik olmayan, başka bir saldırıyla birleştirilemeyen bilgi ifşası güvenlik açıklıkları
+
+## Kurallar
+
+- Aynı güvenlik açığı için gelen ilk rapor kabul edilir.
+- Bitexen tarafından halihazırda bilinen açıklıklar için gelen raporlar kabul edilmez.
+- Bulunan zafiyetleri Bitexen izni olmadan başka platformlarda paylaşmayınız. Paylaşıldığı tespit edilen raporlar ödül hak edişini kaybeder.
+- Kapsamda listelenmemiş ancak Bitexen'e ait hedefler için gönderilen raporlar ödül programı dışında tutulur.
+- Kapsam dışı olarak belirtilen zafiyetler için gönderilen raporlar kabul edilmez.
+- Sistemlerin zarar görmemesine ve kişisel verilerin gizliliğine önem verilmelidir.
+- Diğer kullanıcı verilerine erişilmemeli, değiştirilmemeli, tüm testler kontrolünüzdeki hesaplar ile gerçekleştirilmeli. Kullanıcı verilerine erişim yetkisi doğurabilecek zafiyetleri doğrulamadan veya yalnızca kendi hesaplarınız üzerinde doğrulayarak iletebilirsiniz.
+- Sosyal mühendislik yöntemleri (phishing, vishing, smishing vb.) ve fiziki saldırılar (bilgisayar hırsızlığı, SIM kart kopyalanması vb.) kullanılmamalı. Hizmet kesintisine yol açabilecek (DoS) saldırılar denenmemelidir.
+- Raporlar Türkçe veya İngilizce olarak iletilebilir.
+- Güvenlik açığı hakkındaki tüm detayların paylaşılması, PoC verilmesi gerekmektedir. Örnek rapor formatlarına [report-templates](https://github.com/Bitexen/bitexen-bugbounty/tree/master/report-templates) sayfasından ulaşabilirsiniz.
+- Birden fazla güvenlik açıklığı kullanılarak zincirleme güvenlik açıklığının tespit edildiği durumlarda ayrı ayrı raporlama yapılabilir.
 
 ## Kapsam
 
