@@ -20,13 +20,6 @@ Aşağıdaki tablo, belirtilen kategoride verilecek en büyük ödül miktarın�
 
 Bitexen, belirtilen ödül miktarlarını haber vermeden değiştirme hakkına sahiptir. Raporun Bitexen'e sunulduğu tarihteki güncel ödül miktarı dikkate alınır. Kazanılan ödül, Bitexen hesaplarına tercihinize göre BTXN veya USDT olarak aktarılacaktır.
 
-### Ödül Alma Kriterleri
-
-- Bitexen çalışanları ve birinci derece yakınları ödül kazanamaz.
-- Ödül hakkı kazanmak için minimum 14 yaşında olunmalıdır.
-- Bulgu halka açık şekilde paylaşılmamalıdır.
-- Ödülün verilmesinin önünde hukuki bir engel bulunmamalıdır.
-
 ## Risk Kategorilendirmesi
 
 Raporlanan güvenlik açıklarını etkilerine göre dört kategori altında sınıflandırdık. Listede bulunmayan güvenlik açıkları potansiyel etkisine göre değerlendirilecektir.
@@ -68,6 +61,13 @@ Raporlanan güvenlik açıklarını etkilerine göre dört kategori altında sı
 - Raporlar Türkçe veya İngilizce olarak iletilebilir.
 - Güvenlik açığı hakkındaki tüm detayların paylaşılması, PoC verilmesi gerekmektedir. Örnek rapor formatlarına [report-templates](https://github.com/Bitexen/bitexen-bugbounty/tree/master/report-templates) sayfasından ulaşabilirsiniz.
 - Birden fazla güvenlik açıklığı kullanılarak zincirleme güvenlik açıklığının tespit edildiği durumlarda ayrı ayrı raporlama yapılabilir.
+
+### Ödül Alma Kriterleri
+
+- Bitexen çalışanları ve birinci derece yakınları ödül kazanamaz.
+- Ödül hakkı kazanmak için minimum 14 yaşında olunmalıdır.
+- Bulgu halka açık şekilde paylaşılmamalıdır.
+- Ödülün verilmesinin önünde hukuki bir engel bulunmamalıdır.
 
 ## Kapsam
 
