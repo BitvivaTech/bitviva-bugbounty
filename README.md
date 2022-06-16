@@ -10,6 +10,23 @@ Bitexen Güvenlik Açığı Bildirim Programına dair sormak istediğin sorular�
 
 Katıldığın için teşekkürler ve iyi avlanmalar! ¯\\\_(ツ)\_/¯
 
+## Ödüller
+
+Aşağıdaki tablo, belirtilen kategoride verilecek en büyük ödül miktarını göstermektedir. Geçerli bir rapor iletildiği durumda verilecek ödül miktarı rapor özelinde hesaplanacaktır. Yüksek kalite raporlama yapılması, raporlama ve çözüm sürecinde yardımcı olunması gibi durumlarda ek ödüller kazanabilirsiniz.
+
+| Kritik     | Yüksek     | Orta      | Düşük     |
+|------------|------------|-----------|-----------|
+| USD 3.000  | USD 1.000  | USD 250   | USD 50    |
+
+Bitexen, belirtilen ödül miktarlarını haber vermeden değiştirme hakkına sahiptir. Raporun Bitexen'e sunulduğu tarihteki güncel ödül miktarı dikkate alınır. Kazanılan ödül, Bitexen hesaplarına tercihinize göre BTXN veya USDT olarak aktarılacaktır.
+
+### Ödül Alma Kriterleri
+
+- Bitexen çalışanları ve birinci derece yakınları ödül kazanamaz.
+- Ödül hakkı kazanmak için minimum 14 yaşında olunmalıdır.
+- Bulgu halka açık şekilde paylaşılmamalıdır.
+- Ödülün verilmesinin önünde hukuki bir engel bulunmamalıdır.
+
 ## Kurallar
 
 - Aynı güvenlik açığı için gelen ilk rapor kabul edilir.
@@ -51,23 +68,6 @@ Raporlanan güvenlik açıklarını etkilerine göre dört kategori altında sı
 ### Düşük
 
 - Sunucularda kritik olmayan, başka bir saldırıyla birleştirilemeyen bilgi ifşası güvenlik açıklıkları
-
-## Ödüller
-
-Aşağıdaki tablo, belirtilen kategoride verilecek en büyük ödül miktarını göstermektedir. Geçerli bir rapor iletildiği durumda verilecek ödül miktarı rapor özelinde hesaplanacaktır. Yüksek kalite raporlama yapılması, raporlama ve çözüm sürecinde yardımcı olunması gibi durumlarda ek ödüller kazanabilirsiniz.
-
-| Kritik     | Yüksek     | Orta      | Düşük     |
-|------------|------------|-----------|-----------|
-| USD 3.000  | USD 1.000  | USD 250   | USD 50    |
-
-Bitexen, belirtilen ödül miktarlarını haber vermeden değiştirme hakkına sahiptir. Raporun Bitexen'e sunulduğu tarihteki güncel ödül miktarı dikkate alınır. Kazanılan ödül, Bitexen hesaplarına tercihinize göre BTXN veya USDT olarak aktarılacaktır.
-
-### Ödül Alma Kriterleri
-
-- Bitexen çalışanları ve birinci derece yakınları ödül kazanamaz.
-- Ödül hakkı kazanmak için minimum 14 yaşında olunmalıdır.
-- Bulgu halka açık şekilde paylaşılmamalıdır.
-- Ödülün verilmesinin önünde hukuki bir engel bulunmamalıdır.
 
 ## Kapsam
 
