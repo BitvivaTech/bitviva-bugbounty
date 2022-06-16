@@ -37,7 +37,7 @@ Raporlanan güvenlik açıklarını etkilerine göre dört kategori altında sı
 
 - Kullanıcı cüzdan bilgilerinin (sahip olunan tokenler, para miktarı vb.) açığa çıkması
 - Bitexen sunucularında uzaktan kod çalıştırma (yetkisiz kullanıcı)
-- Halka açık erişimde bırakılmış kritik veri barındıran (e-posta adresleri, parolalar, iletişim verileri gibi. Etki sınıflandırması bulunan datanın önemine göre değişebilir.) sunucuların tespit edilmesi (Örn. AWS S3)
+- Halka açık erişimde bırakılmış kritik veri barındıran sunucular (Örn. AWS S3)
 - CSP atlatılarak XSS (Reflected ve self XSS hariç) güvenlik açığının tespit edilmesi
 
 ### Orta
