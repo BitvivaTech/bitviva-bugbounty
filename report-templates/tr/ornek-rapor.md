@@ -92,7 +92,7 @@ Ekran görüntüleri:
 
 ## Etki
 
-Tüm kullanıcıların e-posta adreslerine ve telefon numaralarına erişilebiliyor. Parolalar bulunmadığı için hesap erişimi mümkün değil ancak elde edilebilecek veriler kritik önemde. Ayrıca, saldırgan tarafından veriler düzenlenebilir veya silinebilir.
+Tüm kullanıcıların e-posta adreslerine ve telefon numaralarına erişilebiliyor. Parolalar bulunmadığı için hesap erişimi mümkün değil ancak elde edilebilecek veriler kritik önemde. Ayrıca saldırgan tarafından veriler düzenlenebilir veya silinebilir.
 
 ## Çözüm Önerisi
 
