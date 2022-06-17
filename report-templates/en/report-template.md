@@ -15,7 +15,7 @@
 - [URL 1]
 - [URL 2]
 
-## Risk Breakdown
+## Risk Category
 
 [The categories on the program page of the effects that the issue may cause. If the effect is not listed, you can add CVSS v3 score]
 
@@ -33,6 +33,6 @@
 
 [What security impact could an attacker achieve?]
 
-## Remediation Suggestions / Supporting Material / Referances
+## Remediation Suggestions / Supporting Material / References
 
 [Suggestions and resources for closing the finding]
