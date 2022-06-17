@@ -94,7 +94,7 @@ Screeshots:
 
 An attacker can access sensitive user information. It is not possible to hijack user accounts due to no passwords seem to be in the database but the information which can be accessed is critical. The data can also be edited or deleted by the attacker.
 
-## Remediation Suggestions / Supporting Material / Referances
+## Remediation Suggestions / Supporting Material / References
 
 Instead of creating SQL queries from the user input, parameterized API can be used. If this option is not feasible, the user input must be sanitized before creating SQL queries. Also, the permissions of the SQL service and account should be limited.
 
