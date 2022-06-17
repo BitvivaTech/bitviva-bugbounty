@@ -12,7 +12,7 @@ I malformed the requests of the web page with Burp to successfully run SQL queri
 
 - Domain bitexen.com
 
-## Risk Breakdown
+## Risk Category
 
 - Risk: Critical
 - Risk: Disclosure of sensitive user information (national identity, physical address, phone number)
