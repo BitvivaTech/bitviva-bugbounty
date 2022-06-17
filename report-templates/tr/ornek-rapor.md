@@ -21,6 +21,7 @@ Web uygulaması üzerinden giden isteği Burp Suite ile değiştirerek veritaban
 ## Tekrarlama Adımları / PoC
 
 - Bitexen hesabına giriş yapılıp kullanıcı bilgileri değiştirilir ve 'Kaydet' butonuna basılır.
+- İstek Burp veya diğer proxy araçlarıyla durdurulur.
 - Giden POST verisindeki `username=example` içine `' UNION SELECT sum(columnname ) from tablename --` yerleştirilir.
 - İsteğin son hali `username=example' UNION SELECT sum(columnname ) from tablename --` olacak şekilde gönderilir.
 
