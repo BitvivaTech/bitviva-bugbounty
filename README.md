@@ -75,7 +75,7 @@ Raporlanan güvenlik açıklarını etkilerine göre dört kategori altında sı
 |----------------|------------------------------------------------------------|
 | Domain         | www.bitexen.com/*                                          |
 | Domain         | bitexen.com/*                                              |
-| Domain         | g.bitexen.com/*                                              |
+| Domain         | g.bitexen.com/*                                            |
 | Android App    | Bitexen (com.bitexen.exchange)                             |
 | IOS App        | Bitexen (ID 1388036461)                                    |
 | Smart Contract | 0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f (BTXN) (ERC20)  |
