@@ -1,12 +1,12 @@
 ![bitexen-bugbounty-img](src/bitexen-bugbounty-img.png)
 
-# Bitexen Güvenlik Açığı Bildirim Programı
+# Bitviva Güvenlik Açığı Bildirim Programı
 
-Bitexen Güvenlik Açığı Bildirim Programına hoş geldin. Türkiye’nin en büyük kripto borsalarından biri olarak kullanıcılarımıza güvenli bir platform sağlamak ana önceliklerimizden biridir. Bu nedenle herkesi Bitexen Güvenlik Açığı Bildirim Programımıza katılmaya davet ediyoruz. Bu programla araştırmacı ve hacker'ları güvenlik açıklarını sorumlu bir şekilde bulmaya, bildirmeye ve bu açıkları gidermemize yardımcı olmaya teşvik ediyoruz. 
+Bitviva Güvenlik Açığı Bildirim Programına hoş geldin. Türkiye’nin en büyük kripto borsalarından biri olarak kullanıcılarımıza güvenli bir platform sağlamak ana önceliklerimizden biridir. Bu nedenle herkesi Bitviva Güvenlik Açığı Bildirim Programımıza katılmaya davet ediyoruz. Bu programla araştırmacı ve hacker'ları güvenlik açıklarını sorumlu bir şekilde bulmaya, bildirmeye ve bu açıkları gidermemize yardımcı olmaya teşvik ediyoruz. 
 
-Benzer güvenlik açığı bildirim programlarında olduğu gibi Bitexen Güvenlik Açığı Bildirim Programında da hem bizleri hem de güvenlik açığı bildirenleri korumaya yönelik oldukça net ve basit kurallar var. 
+Benzer güvenlik açığı bildirim programlarında olduğu gibi Bitviva Güvenlik Açığı Bildirim Programında da hem bizleri hem de güvenlik açığı bildirenleri korumaya yönelik oldukça net ve basit kurallar var. 
 
-Bitexen Güvenlik Açığı Bildirim Programına dair sormak istediğin soruları bugbounty@bitexen.com adresine iletebilirsin.
+Bitviva Güvenlik Açığı Bildirim Programına dair sormak istediğin soruları bugbounty@Bitviva.com adresine iletebilirsin.
 
 Katıldığın için teşekkürler ve iyi avlanmalar! ¯\\\_(ツ)\_/¯
 
@@ -18,7 +18,7 @@ Aşağıdaki tablo, belirtilen kategoride verilecek en büyük ödül miktarın�
 |------------|------------|-----------|-----------|
 | USD 3.000  | USD 1.000  | USD 250   | USD 50    |
 
-Bitexen, belirtilen ödül miktarlarını haber vermeden değiştirme hakkına sahiptir. Raporun Bitexen'e sunulduğu tarihteki güncel ödül miktarı dikkate alınır. Kazanılan ödül, Bitexen hesaplarına tercihinize göre BTXN veya USDT olarak aktarılacaktır.
+Bitviva, belirtilen ödül miktarlarını haber vermeden değiştirme hakkına sahiptir. Raporun Bitviva'e sunulduğu tarihteki güncel ödül miktarı dikkate alınır. Kazanılan ödül, Bitviva hesaplarına tercihinize göre BTXN veya USDT olarak aktarılacaktır.
 
 ## Risk Kategorilendirmesi
 
@@ -28,7 +28,7 @@ Raporlanan güvenlik açıklarını etkilerine göre dört kategori altında sı
 
 - Kullanıcı hesaplarından yetkisiz bir şekilde token elde edilebilmesi veya para çıkışı yapılabilmesi
 - Hassas kullanıcı bilgilerinin (kimlik verisi, adres, telefon vb.) açığa çıkması
-- Bitexen sunucularında uzaktan kod çalıştırma
+- Bitviva sunucularında uzaktan kod çalıştırma
 - Kullanıcı hesaplarına login veya MFA fonksiyonları atlatılarak erişilebilmesi (Sosyal mühendislik ve kaba kuvvet saldırıları kapsam dışıdır)
 - İş mantığı atlatılarak işlem yapılması (coin alımlarında fiyat değiştirilebilmesi vb.)
 - Şifreleme, imzalama, doğrulama fonksiyonlarının etkilenmesi
@@ -36,13 +36,13 @@ Raporlanan güvenlik açıklarını etkilerine göre dört kategori altında sı
 ### Yüksek
 
 - Kullanıcı cüzdan bilgilerinin (sahip olunan tokenler, para miktarı vb.) açığa çıkması
-- Bitexen sunucularında uzaktan kod çalıştırma (yetkisiz kullanıcı)
+- Bitviva sunucularında uzaktan kod çalıştırma (yetkisiz kullanıcı)
 - Halka açık erişimde bırakılmış kritik veri barındıran sunucular (Örn. AWS S3)
 - CSP atlatılarak XSS (Reflected ve self XSS hariç) güvenlik açığının tespit edilmesi
 
 ### Orta
 
-- Bitexen uygulamaları üzerinden mobil cihazda kod çalıştırma
+- Bitviva uygulamaları üzerinden mobil cihazda kod çalıştırma
 
 ### Düşük
 
@@ -51,20 +51,20 @@ Raporlanan güvenlik açıklarını etkilerine göre dört kategori altında sı
 ## Kurallar
 
 - Aynı güvenlik açığı için gelen ilk rapor kabul edilir.
-- Bitexen tarafından halihazırda bilinen açıklıklar için gelen raporlar kabul edilmez.
-- Bulunan zafiyetleri Bitexen izni olmadan başka platformlarda paylaşmayınız. Paylaşıldığı tespit edilen raporlar ödül hak edişini kaybeder.
-- Kapsamda listelenmemiş ancak Bitexen'e ait hedefler için gönderilen raporlar ödül programı dışında tutulur.
+- Bitviva tarafından halihazırda bilinen açıklıklar için gelen raporlar kabul edilmez.
+- Bulunan zafiyetleri Bitviva izni olmadan başka platformlarda paylaşmayınız. Paylaşıldığı tespit edilen raporlar ödül hak edişini kaybeder.
+- Kapsamda listelenmemiş ancak Bitviva'e ait hedefler için gönderilen raporlar ödül programı dışında tutulur.
 - Kapsam dışı olarak belirtilen zafiyetler için gönderilen raporlar kabul edilmez.
 - Sistemlerin zarar görmemesine ve kişisel verilerin gizliliğine önem verilmelidir.
 - Diğer kullanıcı verilerine erişilmemeli, değiştirilmemeli, tüm testler kontrolünüzdeki hesaplar ile gerçekleştirilmeli. Kullanıcı verilerine erişim yetkisi doğurabilecek zafiyetleri doğrulamadan veya yalnızca kendi hesaplarınız üzerinde doğrulayarak iletebilirsiniz.
 - Sosyal mühendislik yöntemleri (phishing, vishing, smishing vb.) ve fiziki saldırılar (bilgisayar hırsızlığı, SIM kart kopyalanması vb.) kullanılmamalı. Hizmet kesintisine yol açabilecek (DoS) saldırılar denenmemelidir.
 - Raporlar Türkçe veya İngilizce olarak iletilebilir.
-- Güvenlik açığı hakkındaki tüm detayların paylaşılması, PoC verilmesi gerekmektedir. Örnek rapor formatlarına [report-templates](https://github.com/Bitexen/bitexen-bugbounty/tree/master/report-templates) sayfasından ulaşabilirsiniz.
+- Güvenlik açığı hakkındaki tüm detayların paylaşılması, PoC verilmesi gerekmektedir. Örnek rapor formatlarına [report-templates](https://github.com/Bitviva/Bitviva-bugbounty/tree/master/report-templates) sayfasından ulaşabilirsiniz.
 - Birden fazla güvenlik açıklığı kullanılarak zincirleme güvenlik açıklığının tespit edildiği durumlarda ayrı ayrı raporlama yapılabilir.
 
 ### Ödül Alma Kriterleri
 
-- Bitexen çalışanları ve birinci derece yakınları ödül kazanamaz.
+- Bitviva çalışanları ve birinci derece yakınları ödül kazanamaz.
 - Ödül hakkı kazanmak için minimum 14 yaşında olunmalıdır.
 - Bulgu halka açık şekilde paylaşılmamalıdır.
 - Ödülün verilmesinin önünde hukuki bir engel bulunmamalıdır.
@@ -73,11 +73,11 @@ Raporlanan güvenlik açıklarını etkilerine göre dört kategori altında sı
 
 | Hedef Uygulama | Domain/Adres                                               |
 |----------------|------------------------------------------------------------|
-| Domain         | www.bitexen.com/*                                          |
-| Domain         | bitexen.com/*                                              |
-| Domain         | g.bitexen.com/*                                            |
-| Android App    | Bitexen (com.bitexen.exchange)                             |
-| IOS App        | Bitexen (ID 1388036461)                                    |
+| Domain         | www.Bitviva.com/*                                          |
+| Domain         | Bitviva.com/*                                              |
+| Domain         | g.Bitviva.com/*                                            |
+| Android App    | Bitviva (com.Bitviva.exchange)                             |
+| IOS App        | Bitviva (ID 1388036461)                                    |
 | Smart Contract | 0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f (BTXN) (ERC20)  |
 | Smart Contract | 0xbcf91e60a6719eb3e9308addf1f7c6185c2af889 (XNP) (ERC20)   |
 
@@ -98,7 +98,7 @@ Not: Akıllı sözleşmelerin kodlarına https://etherscan.io/ adresinden ulaşa
 - HTTP başlıklarındaki güvenlik eksikleri
 - Cookie flag eksikleri
 - Kritik olmayan sunucularda bilgi ifşasına yol açabilecek güvenlik açıkları
-- Bitexen çalışan hesabına veya iç ağ erişimine ihtiyaç duyulan saldırılar
+- Bitviva çalışan hesabına veya iç ağ erişimine ihtiyaç duyulan saldırılar
 - MITM veya fiziksel erişim gerektiren saldırılar
 - Cache Poisoning güvenlik açıkları
 - SSL/TLS konfigürasyon eksiklikleri (TLS 1.1 kullanımı vb.)
@@ -147,14 +147,16 @@ Rapor taslağımızı kullanırsanız mutlu oluruz :)
 
 ## Güvenli Liman
 
-Bitexen, bu sayfada belirtilen kurallara uyularak yapılan araştırmalar ve raporlamalar için herhangi bir hukuki aksiyon almayacaktır.
+Bitviva, bu sayfada belirtilen kurallara uyularak yapılan araştırmalar ve raporlamalar için herhangi bir hukuki aksiyon almayacaktır.
 
-Rapor gönderilmesi halinde, gönderilen içeriğin haklarının Bitexen'e devredildiği kabul edilir.
+Rapor gönderilmesi halinde, gönderilen içeriğin haklarının Bitviva'e devredildiği kabul edilir.
 
-Program kapsamında sunulan raporlardaki güvenlik açıklarının Bitexen haricindeki üçüncü partilerin ürün ve hizmetlerine, ağ yapılarına, sistemlerine, uygulamalarına ve bilgilerine dair olması durumunda, ilgili raporlar Bitexen Güvenlik Açığı Bildirim Programı kapsamında değerlendirilmez ve dolayısıyla ilgili üçüncü partilerin bu tarz bir raporlama durumunda yasal işlem başlatabileceğini ve bu durumdan Bitexen olarak sorumlu olmadığımızı bildirmek isteriz. Bitexen kendi ürün ve hizmetleri dışındaki güvenlik araştırmalarına izin vermez ve herhangi bir kişiye bu konuda bir yetkilendirme sunmaz.
+Program kapsamında sunulan raporlardaki güvenlik açıklarının Bitviva haricindeki üçüncü partilerin ürün ve hizmetlerine, ağ yapılarına, sistemlerine, uygulamalarına ve bilgilerine dair olması durumunda, ilgili raporlar Bitviva Güvenlik Açığı Bildirim Programı kapsamında değerlendirilmez ve dolayısıyla ilgili üçüncü partilerin bu tarz bir raporlama durumunda yasal işlem başlatabileceğini ve bu durumdan Bitviva olarak sorumlu olmadığımızı bildirmek isteriz. Bitviva kendi ürün ve hizmetleri dışındaki güvenlik araştırmalarına izin vermez ve herhangi bir kişiye bu konuda bir yetkilendirme sunmaz.
 
-Bitexen Güvenlik Açığı Bildirim Programına dair detaylı kuralların ve hukuki bilgilerin yer aldığı dokümana [policy-details](https://github.com/Bitexen/bitexen-bugbounty/tree/master/policy-details) sayfasından ulaşabilirsiniz.
+Bitviva Güvenlik Açığı Bildirim Programına dair detaylı kuralların ve hukuki bilgilerin yer aldığı dokümana [policy-details](https://github.com/Bitviva/Bitviva-bugbounty/tree/master/policy-details) sayfasından ulaşabilirsiniz.
 
 Mutlu avlar! ᕕ( ᐛ )ᕗ
+
+_Bitviva Güvenlik Açığı Bildirim Programı sistemlerimizde bulunabilecek güvenlik açıklarından kontrollü bir şekilde haber almak ve araştırmacıları teşvik etmek için hazırlanmıştır. Eğer Bitviva hesabınızın güvenliğinin ihlal edildiğini düşünüyorsanız en kısa zamanda şifrenizi değiştiriniz ve destek@Bitviva.com aracılığıyla destek ekibimizle iletişime geçiniz._
 
 _Bitexen Güvenlik Açığı Bildirim Programı sistemlerimizde bulunabilecek güvenlik açıklarından kontrollü bir şekilde haber almak ve araştırmacıları teşvik etmek için hazırlanmıştır. Eğer Bitexen hesabınızın güvenliğinin ihlal edildiğini düşünüyorsanız en kısa zamanda şifrenizi değiştiriniz ve destek@bitexen.com aracılığıyla destek ekibimizle iletişime geçiniz._
