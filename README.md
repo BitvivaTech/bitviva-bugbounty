@@ -159,4 +159,4 @@ Mutlu avlar! ᕕ( ᐛ )ᕗ
 
 _Bitviva Güvenlik Açığı Bildirim Programı sistemlerimizde bulunabilecek güvenlik açıklarından kontrollü bir şekilde haber almak ve araştırmacıları teşvik etmek için hazırlanmıştır. Eğer Bitviva hesabınızın güvenliğinin ihlal edildiğini düşünüyorsanız en kısa zamanda şifrenizi değiştiriniz ve destek@Bitviva.com aracılığıyla destek ekibimizle iletişime geçiniz._
 
-_Bitexen Güvenlik Açığı Bildirim Programı sistemlerimizde bulunabilecek güvenlik açıklarından kontrollü bir şekilde haber almak ve araştırmacıları teşvik etmek için hazırlanmıştır. Eğer Bitexen hesabınızın güvenliğinin ihlal edildiğini düşünüyorsanız en kısa zamanda şifrenizi değiştiriniz ve destek@bitexen.com aracılığıyla destek ekibimizle iletişime geçiniz._
+_Bitviva Güvenlik Açığı Bildirim Programı sistemlerimizde bulunabilecek güvenlik açıklarından kontrollü bir şekilde haber almak ve araştırmacıları teşvik etmek için hazırlanmıştır. Eğer Bitviva hesabınızın güvenliğinin ihlal edildiğini düşünüyorsanız en kısa zamanda şifrenizi değiştiriniz ve destek@Bitviva.com aracılığıyla destek ekibimizle iletişime geçiniz._
