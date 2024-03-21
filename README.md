@@ -1,4 +1,4 @@
-![bitexen-bugbounty-img](src/bitexen-bugbounty-img.png)
+![bitviva-bugbounty](src/bitviva-bugbounty.png)
 
 # Bitviva Güvenlik Açığı Bildirim Programı
 
